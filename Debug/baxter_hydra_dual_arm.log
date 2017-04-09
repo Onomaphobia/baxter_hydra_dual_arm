@@ -1,0 +1,178 @@
+﻿Build started 16-9-21 14:11:56.
+     1>Project "C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\baxter_hydra_dual_arm.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D SIXENSE_STATIC_LIB /D SIXENSE_UTILS_STATIC_LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt baxter_hydra_dual_arm.cpp
+         baxter_hydra_dual_arm.cpp
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(226): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(303) : see reference to class template instantiation 'math::matrix<T>' being compiled
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(227): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(234): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(235): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(236): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(239): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(249): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(250): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(251): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(252): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(254): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(401): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(411): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(473): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(486): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(510): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(543): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(568): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(577): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(603): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(620): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(627): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(634): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(658): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(666): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(713): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(842): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(895): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(930): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(162): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(188) : see declaration of 'strncpy'
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(226): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(226) : see reference to class template instantiation 'math::matrix<T>' being compiled
+                 with
+                 [
+                     T=double
+                 ]
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(227): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(234): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(235): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(236): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(239): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(249): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(250): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(251): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(252): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(254): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1194): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : see declaration of 'sscanf'
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1600): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(325) : see declaration of 'sscanf'
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1111): warning C4101: 'j3_right' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1109): warning C4101: 'j1_right' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1112): warning C4101: 'j4_right' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1079): warning C4101: 'j6_left' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1078): warning C4101: 'j5_left' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1114): warning C4101: 'j6_right' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1077): warning C4101: 'j4_left' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1075): warning C4101: 'j2_left' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1074): warning C4101: 'j1_left' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1113): warning C4101: 'j5_right' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1076): warning C4101: 'j3_left' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1115): warning C4101: 'j7_right' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1080): warning C4101: 'j7_left' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(1110): warning C4101: 'j2_right' : unreferenced local variable
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(401): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(402) : while compiling class template member function 'double &math::matrix<T>::operator ()(size_t,size_t) throw(math::matrix_error)'
+                 with
+                 [
+                     T=double
+                 ]
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(226) : see reference to class template instantiation 'math::matrix<T>' being compiled
+                 with
+                 [
+                     T=double
+                 ]
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(842): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(843) : while compiling class template member function 'double math::matrix<T>::Det(void) throw(math::matrix_error) const'
+                 with
+                 [
+                     T=double
+                 ]
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(411): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(412) : while compiling class template member function 'double math::matrix<T>::operator ()(size_t,size_t) throw(math::matrix_error) const'
+                 with
+                 [
+                     T=double
+                 ]
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(315) : while compiling class template member function 'math::matrix<T>::matrix(size_t,size_t)'
+                 with
+                 [
+                     T=double
+                 ]
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(473): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(474) : while compiling class template member function 'math::matrix<T> &math::matrix<T>::operator +=(const math::matrix<T> &) throw(math::matrix_error)'
+                 with
+                 [
+                     T=double
+                 ]
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(486): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(487) : while compiling class template member function 'math::matrix<T> &math::matrix<T>::operator -=(const math::matrix<T> &) throw(math::matrix_error)'
+                 with
+                 [
+                     T=double
+                 ]
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(510): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(511) : while compiling class template member function 'math::matrix<T> &math::matrix<T>::operator *=(const math::matrix<T> &) throw(math::matrix_error)'
+                 with
+                 [
+                     T=double
+                 ]
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(666): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+                 c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\matrix.h(667) : while compiling class template member function 'math::matrix<T> math::matrix<T>::Inv(void) throw(math::matrix_error)'
+                 with
+                 [
+                     T=double
+                 ]
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(394): warning C4715: 'jacobian' : not all control paths return a value
+     1>c:\users\xixi8_000\dropbox\vs2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.cpp(491): warning C4715: 'kinematics' : not all control paths return a value
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\baxter_hydra_dual_arm.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\\lib\win32\debug_static sixensed_s.lib sixense_utilsd_s.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\baxter_hydra_dual_arm.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\baxter_hydra_dual_arm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\baxter_hydra_dual_arm.lib" /MACHINE:X86 Debug\baxter_hydra_dual_arm.exe.embed.manifest.res
+         Debug\baxter_hydra_dual_arm.obj
+     1>sixensed_s.lib(DriverMain.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(DriverMain.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(sixense.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(sixense.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(CheckForDockedControllersFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(CheckForDockedControllersFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(DeSawtoothFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(DeSawtoothFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(TrackHemiFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(TrackHemiFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(ControllerDataStream.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(ControllerDataStream.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(PacketStreamManager.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(PacketStreamManager.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(CompositePacket.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(CompositePacket.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(SignalMatrixPacketPayload20.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(SignalMatrixPacketPayload20.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(SignalMatrixPacketPayload30.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(SignalMatrixPacketPayload30.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(SignalMatrixPacketPayloadRazer10.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(SignalMatrixPacketPayloadRazer10.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(USBManager.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(USBManager.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(USBManagerWin32.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(USBManagerWin32.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(ApplyCoilOffsetFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(ApplyCoilOffsetFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(ComputeMatrixFromQuatFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(ComputeMatrixFromQuatFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(ComputeStatsFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(ComputeStatsFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(ControllerEnabledStatusFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(ControllerEnabledStatusFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(ConvertCoordSysFromPolhemusFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(ConvertCoordSysFromPolhemusFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(debendFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(debendFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(MovingAverageFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(MovingAverageFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(NormalizeJoystickFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(NormalizeJoystickFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(SetRangeLEDFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(SetRangeLEDFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(SigMatFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(SigMatFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(SleepTimerFilter.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(SleepTimerFilter.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(crc.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(crc.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(LogFileParser.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(LogFileParser.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixensed_s.lib(Time.obj) : warning LNK4099: PDB 'sixensed_s.pdb' was not found with 'sixensed_s.lib(Time.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixensed_s.pdb'; linking object as if no debug info
+     1>sixense_utilsd_s.lib(time.obj) : warning LNK4099: PDB 'sixense_utilsd_s.pdb' was not found with 'sixense_utilsd_s.lib(time.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixense_utilsd_s.pdb'; linking object as if no debug info
+     1>sixense_utilsd_s.lib(controller_manager.obj) : warning LNK4099: PDB 'sixense_utilsd_s.pdb' was not found with 'sixense_utilsd_s.lib(controller_manager.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixense_utilsd_s.pdb'; linking object as if no debug info
+     1>sixense_utilsd_s.lib(p1c1_steps.obj) : warning LNK4099: PDB 'sixense_utilsd_s.pdb' was not found with 'sixense_utilsd_s.lib(p1c1_steps.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixense_utilsd_s.pdb'; linking object as if no debug info
+     1>sixense_utilsd_s.lib(p1c2_steps.obj) : warning LNK4099: PDB 'sixense_utilsd_s.pdb' was not found with 'sixense_utilsd_s.lib(p1c2_steps.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixense_utilsd_s.pdb'; linking object as if no debug info
+     1>sixense_utilsd_s.lib(steps_common.obj) : warning LNK4099: PDB 'sixense_utilsd_s.pdb' was not found with 'sixense_utilsd_s.lib(steps_common.obj)' or at 'C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\sixense_utilsd_s.pdb'; linking object as if no debug info
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\baxter_hydra_dual_arm.exe.embed.manifest" /manifest Debug\baxter_hydra_dual_arm.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         baxter_hydra_dual_arm.vcxproj -> C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\Debug\baxter_hydra_dual_arm.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\baxter_hydra_dual_arm.unsuccessfulbuild".
+         Touching "Debug\baxter_hydra_dual_arm.lastbuildstate".
+     1>Done Building Project "C:\Users\xixi8_000\Dropbox\VS2010_projects\baxter_hydra_dual_arm\baxter_hydra_dual_arm\baxter_hydra_dual_arm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.23
